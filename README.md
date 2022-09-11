@@ -5,8 +5,8 @@
 
 In this project, we were asked to write a test plan and test cases for web application with multiple-step registration flow and payment system. We were also provided with according wireframes. The project/task itself contains two files:
 
-- test_plan
-- test_cases
+- Test-Plan
+- Test-Cases
 
 In the test_plan file we have the following structure:
 - brief description
