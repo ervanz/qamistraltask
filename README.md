@@ -8,7 +8,7 @@ In this project, we were asked to write a test plan and test cases for web appli
 - Test-Plan
 - Test-Cases
 
-In the test_plan file we have the following structure:
+In the Test-Plan file we have the following structure:
 - brief description
 - list of features and their brief explanation
 - list of test objectives where we describe what we want to achieve and test with this process
@@ -17,7 +17,7 @@ In the test_plan file we have the following structure:
 - list of tools that we will be using
 - list of questions and things to discuss regarding the way the product works (list of things to discuss with Product Owners, Project Managers, Deliver Managers, etc.)
 
-In the test_cases file we will list test cases in which each of them will be:
+In the Test-Cases file we will list test cases in which each of them will be:
 - described thoroughly
 - separated by features
 - focused on positive and negative flows
